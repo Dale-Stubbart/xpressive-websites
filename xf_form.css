@@ -1,0 +1,23 @@
+/*version 1.0.0*/
+textarea{overflow:auto}
+.xf_form_padding{padding:.2em}
+.xf_border_inset{border-style:inset}
+.xf_border_outset{border-style:outset}
+.xf_form_border_rounded{border-radius:0.5em}
+.xf_fieldset_no_border{border:0;margin:0;padding:0}
+.xf_legend_align_left{padding:0;padding-top:.2em}
+.xf_label_align_left{display:inline-block;width:10em}
+.xf_label_align_right{display:inline-block;width:10em;text-align:right}
+.xf_label_required{font-weight:bold}
+.xf_label_optional{font-weight:normal}
+.xf_label_disabled{color:gray}
+.xf_label_readonly{}
+.xf_label_multiple{}
+.xf_field_required{}
+.xf_field_optional{}
+.xf_field_disabled{}
+.xf_field_readonly{}
+.xf_field_multiple{}
+.xf_button_rounded{border-radius:1em}
+.xf_calc_op{border:0;width=1em;font-weight:bold;font-size:larger;padding-left:.4em}
+.xf_menu_container{display:flex;flex-flow:row wrap;justify-content:flex-start}
