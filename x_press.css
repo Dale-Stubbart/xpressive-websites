@@ -1,0 +1,33 @@
+/*x_press.css version 1.0.0*/
+.x_class_font_medium{font-size:medium}/*default*/.x_class_font_xx_small{font-size:xx-small}.x_class_font_x_small{font-size:x-small}.x_class_font_small{font-size:small}.x_class_font_large{font-size:large}.x_class_font_x_large{font-size:x-large}.x_class_font_xx_large{font-size:xx-large}.x_class_font_smaller{font-size:smaller}.x_class_font_larger{font-size:larger}
+.x_class_indent{padding-left:1em}
+.x_class_soc_button{display:inline;float:left;text-align:center} /*this part doesnt change */
+.x_class_soc_button{border-width:3px;border-style:ridge;font-size:1.5em;min-width:48px;min-height:48px;} /*this part only changes if overridden*/
+.x_class_container{display:block;width:100%;}
+.x_class_float_clear{clear:both}
+/*x_press.css version 3.0*/
+.x_font_medium{font-size:medium}/*default*/.x_font_xx_small{font-size:xx-small}.x_font_x_small{font-size:x-small}.x_font_small{font-size:small}.x_font_large{font-size:large}.x_font_x_large{font-size:x-large}.x_font_xx_large{font-size:xx-large}.x_font_smaller{font-size:smaller}.x_font_larger{font-size:larger}
+.x_indent{padding-left:1em}
+.x_soc_button{display:inline;float:left;text-align:center} /*this part doesnt change */
+.x_soc_button{border-width:3px;border-style:ridge;font-size:1.5em;min-width:48px;min-height:48px;} /*this part only changes if overridden*/
+.x_container{display:block;width:100%;}
+.x_float_clear{clear:both}
+.x_rounded_corners{border-radius:5%}.x_rounded{border-radius:50%}
+.x_transparency{opacity:.5}.x_transparency_10{opacity:.9}.x_transparency_20{opacity:.8}.x_transparency_30{opacity:.7}.x_transparency_40{opacity:.6}.x_transparency_50{opacity:.5}.x_transparency_60{opacity:.4}.x_transparency_70{opacity:.3}.x_transparency_80{opacity:.2}.x_transparency_90{opacity:.1}
+.x_reverse_text{display:inline-block;margin-right:-2px;transform:rotateY(180deg);direction:rtl;unicode-bidi:bidi-override}.x_reverse_text_lr{display:inline-block;margin-right:-2px;transform:rotateY(180deg);direction:rtl;unicode-bidi:bidi-override;}.x_reverse_text_lrud{display:inline-block;margin-right:-2px;transform:rotateY(180deg) rotateX(180deg);direction:rtl;unicode-bidi:bidi-override;}.x_reverse_text_ud{display:inline-block;transform:rotateX(180deg);} /* Note x_reverse_text only works with block elements such as divs. But we want it for a single letter (or text) so inline-block is set. Override inline-block with a style, if needed. */
+.x_reverse{transform:rotateY(180deg)}.x_reverse_lr{transform:rotateY(180deg)}.x_reverse_lrud{transform:rotateY(180deg) rotateX(180deg)}.x_reverse_ud{transform:rotateX(180deg)} /* Use x_reverse for entire blocks - images, etc. */
+/*x_press.css version 3.8*/
+.x_flexbox{display:flex;flex-flow:row wrap;justify-content:flex-start}
+.x_no_top_margin{margin-top:-1em!important}
+.x_no_bottom_margin{margin-bottom:0}
+.x_font_sans_serif{font-family:"Arial","Helvetica","Verdana","Tahoma",sans-serif}
+.x_font_sans_serif_narrow{font-family:"Arial Narrow","Tahoma","Trebuchet MS","Gill Sans","Gill Sans MT","Arial",sans-serif}
+.x_font_serif{font-family:"Times New Roman","Times","Baskerville","Georgia",serif}
+.x_font_monospace{font-family:"Courier New","Courier","Lucida Sans Typewriter","Lucida Typewriter",monospace}
+.x_font_cursive{font-family:"Lucida Handwriting","Monotype Corsiva","Bradley Hand ITC","Brush Script MT","Arial","Helvetica", cursive}
+.x_font_bold{font-weight:bold;}.x_font_italic{font-style:italic;}.x_font_underline{text-decoration:underline;}
+/*x_press.css version 5.0*/
+.x_class_social_connect_button{height:1em}
+.x_class_social_share_button{display:inline;float:left;height:1.25em;padding-right:.2em}
+/*x_press.css for x_press.js version 6.4.2*/
+.x_class_social_share_button2{display:inline;float:left;height:1em;padding-right:.1em}
